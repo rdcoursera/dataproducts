@@ -1,0 +1,17 @@
+---
+title: "project"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+# Stock Analyzer Documentation
+
+## Charts tab
+
+### Choose Stock
+A selectbox populated with several stocks symbols for demo
+
+### Select Input Type
+A radio button select to dynamically change the widget for stock symbol input from a selectbox to a textbox input.  This allows text input of any stock symbol instead of being limited to the examples in prepopulated in the selectbox.
+
